@@ -1,0 +1,34 @@
+.product-container{
+
+
+    position: absolute;
+margin-top: 30px;
+margin-left: 5px;
+    width: 200px;
+    height: 250px;
+    position: relative;
+    background-color: rgb(206, 205, 205);
+}
+.img{
+    width: 200px;
+    border-radius: 14px;
+    background-color: rgb(255, 255, 255);
+   
+}
+.product-name{
+    margin-left: 10px;
+}
+.product-price{
+    margin-left: 40px;
+}
+.products{
+    margin-top: 200px;
+    display: flex;
+     flex-direction: row;
+     justify-content:space-evenly;
+     margin-left: auto;
+    flex-wrap: wrap;
+     margin-right: auto;
+ width: 900px;
+     
+}
