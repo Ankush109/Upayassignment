@@ -4,3 +4,9 @@
     height: max-content;
     
 }
+.allproducts{
+    display: flex;
+        flex-wrap: wrap;
+        padding: 0 20vmax;
+        justify-content: center;
+}
